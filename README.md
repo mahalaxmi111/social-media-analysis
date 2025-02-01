@@ -44,8 +44,6 @@ In the digital advertising era, social media platforms like Snapchat play a cruc
 
 ---
 
-## 📂 Project Structure  
-
 ## 📊 Usage  
 
 ### 🔹 Tableau Dashboard  
